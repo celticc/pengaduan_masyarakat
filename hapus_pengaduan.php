@@ -19,5 +19,4 @@ if ($sql) {
  $_SESSION['gagal'] = 'Gagal Menghapus Data' ;
 }
 header("location:pengaduan.php");
-
 ?>
